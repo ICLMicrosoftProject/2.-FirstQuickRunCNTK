@@ -47,9 +47,15 @@ Notes: require more in depth discussion
 ## III. Something to run with shell:
 A fully connected neural net example
  
-step 1. 
-create a file, copy and paste the following codes, save it as simplenet.py . 
-step 2. 
+#### step 1. 
+create a file, copy and paste the following codes, save it as simplenet.py .
+
+
+#### step 2. 
 go to terminal and type python simplenet.py
-step 3.
+
+
+#### step 3.
 While it is running, check out the explanation
+
+

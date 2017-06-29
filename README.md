@@ -1,5 +1,5 @@
 # FirstQuickRunCNTK
-Introduction to some basic commend lines and quickly dive into cntk. However these exact codes and detail description can be found from the [official site](https://cntk.ai/pythondocs/gettingstarted.html)
+Introduction to some basic commend lines and quickly dive into cntk. However these exact codes and details can be found and is orignially from the [official site](https://cntk.ai/pythondocs/gettingstarted.html)
 
 ## I. Python CNTK documentation:
 
@@ -48,14 +48,20 @@ Notes: require more in depth discussion
 A fully connected neural net example
  
 #### step 1. 
-create a file, copy and paste the following codes, save it as simplenet.py .
+create a file, copy and paste (or download )the [following codes](simplenet.py), save it as simplenet.py .
 
 
 #### step 2. 
-go to terminal and type python simplenet.py
-
+go to terminal and type 
+```
+python simplenet.py
+```
 
 #### step 3.
 While it is running, check out the explanation
 
+#### How it works
 
+
+## License
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).

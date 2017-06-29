@@ -1,5 +1,5 @@
 # FirstQuickRunCNTK
-Introduction to some basic commend lines and quickly dive into cntk
+Introduction to some basic commend lines and quickly dive into cntk. However these exact codes and detail description can be found from the [official site](https://cntk.ai/pythondocs/gettingstarted.html)
 
 ## I. Python CNTK documentation:
 

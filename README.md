@@ -63,7 +63,7 @@ While it is running, check out the explanation
 #### How it works
 
 ## Reference
-
+[1] https://cntk.ai/pythondocs/gettingstarted.html
 ## Claim
 The instruction and codes are originally from the [official website](https://cntk.ai/pythondocs/).
 This is just a quick guide of how student would approach the tool.

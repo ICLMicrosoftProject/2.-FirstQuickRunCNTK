@@ -58,9 +58,9 @@ python simplenet.py
 ```
 
 #### step 3.
-While it is running, check out the explanation
+While it is running, check out the following explanation
+........................................
 
-#### How it works
 
 ## Reference
 [1] https://cntk.ai/pythondocs/gettingstarted.html

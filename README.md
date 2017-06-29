@@ -62,6 +62,8 @@ While it is running, check out the explanation
 
 #### How it works
 
+## Reference
 
-## License
-See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
+## Claim
+The instruction and codes are originally from the [official website](https://cntk.ai/pythondocs/).
+This is just a quick guide of how student would approach the tool.

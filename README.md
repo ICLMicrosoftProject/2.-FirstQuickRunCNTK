@@ -1,9 +1,9 @@
 # FirstQuickRunCNTK
 Introduction to some basic commend lines and quickly dive into cntk
 
-##I. Python CNTK documentation:
+## I. Python CNTK documentation:
 
-##II. Something to try out on your terminal:
+## II. Something to try out on your terminal:
 Open up your terminal and type in
 ```
 python
@@ -12,7 +12,7 @@ import cntk with the following and get started.
 ```
 import cntk
 ```
-####step 1. test version:
+#### step 1. test version:
 ```
 cntk.__version__
 ```
@@ -44,7 +44,7 @@ Key observation: asarray()
 
 Notes: require more in depth discussion
 
-##III. Something to run with shell:
+## III. Something to run with shell:
 A fully connected neural net example
  
 step 1. 

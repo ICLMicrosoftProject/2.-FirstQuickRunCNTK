@@ -1,7 +1,8 @@
 # FirstQuickRunCNTK
 Introduction to some basic commend lines and quickly dive into cntk. However these exact codes and details can be found and is orignially from the [official site](https://cntk.ai/pythondocs/gettingstarted.html)
 
-## I. Python CNTK documentation:
+## I. What is CNTK?:
+Microsoft Cognitive Toolkit, also known as CNTK, is a deep learning framework developed by Microsoft Research. CNTK describes neural networks with composing simple building blocks, which later transformed into complex computational networks to achieve complex deep models with satisfactory performances. The Microsoft’s internal team is using the exact same tool as the one that open sourced to the public. So far, CNTK supports only for Windows and Linux users. we can call the library of CNTK from Python, C++ and .NET. 
 
 ## II. Something to try out on your terminal:
 Open up your terminal and type in
@@ -56,10 +57,6 @@ go to terminal and type
 ```
 python simplenet.py
 ```
-
-#### step 3.
-While it is running, check out the following explanation
-........................................
 
 
 ## Reference
